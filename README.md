@@ -27,7 +27,7 @@ This work is highly related to [ASiT-CRNN](https://????). Please check these wor
 3. Clone the ASiT-CRNN codes by:
 
 ```
-git clone https://github.com/????.git
+git clone https://github.com/qingkezyy/ASiT-CRNN.git
 ```
 
 4. Install our desed_task package by:
@@ -67,7 +67,7 @@ If you want to cite this paper:
 
       author={Yueyang Zheng},
 
-      journal={arXiv preprint arXiv:2211.13189},
+      journal={arXiv preprint arXiv:????},
 
       year={2024}
 }
